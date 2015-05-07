@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-select2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A ember-cli addon that wraps select2js",
   "directories": {
     "doc": "doc",
@@ -15,7 +15,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "Charles Lee and contributors",
+  "author": "Charlie and contributors",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
