@@ -1,25 +1,5 @@
 # Ember-cli-select2
 
-This README outlines the details of collaborating on this Ember addon.
+This add on wraps [select2js](https://select2.github.io) lib for dropdowns.
 
-## Installation
-
-* `git clone` this repository
-* `npm install`
-* `bower install`
-
-## Running
-
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+# THIS IS NOT READY FOR USE JUST YET
