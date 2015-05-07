@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-select2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A ember-cli addon that wraps select2js",
   "directories": {
     "doc": "doc",
